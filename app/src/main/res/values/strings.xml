@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Rate Us</string>
-    <string name="rate_us">Rate Us</string>
-    <string name="rate_answer">Rate Answer</string>
+    <string name="rate_img">Rate_img</string>
     <string name="give_feedback">Give Feedback</string>
-    <string name="rete_img">Rete_img</string>
+    <string name="rate_answer">Rate Answer</string>
+    <string name="rate_us">Rate Us</string>
 </resources>
